@@ -90,7 +90,7 @@ module.exports = {
     arbitrumTestnet: {
       url: ARBITRUM_TESTNET_URL,
       gasPrice: 10000000000,
-      chainId: 421611,
+      chainId: 421614,
       accounts: getEnvAccounts(ARBITRUM_TESTNET_DEPLOY_KEY)
     },
     arbitrum: {
